@@ -1,0 +1,3 @@
+# PDF_CATALOG
+
+Sin entradas verificadas (2026-11-06). Ver 00_MASTER_INDEX/MISSING_MATERIAL.md.
