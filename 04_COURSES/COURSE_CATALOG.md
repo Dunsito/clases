@@ -36,3 +36,6 @@ Suscripción de Claude (Pro) o de Codex, Higgsfield, alojamiento (Vercel, VPS), 
 
 ## Cursos externos localizados (no verificados todavía)
 Ver 22_GITHUB_PROJECTS/GITHUB_PROJECTS.md (leads de búsqueda, estado PENDIENTE).
+
+## Clases propias en construcción
+- CLASE 01 — Agente de WhatsApp que atiende y vende: 09_WHATSAPP_AGENTS/CLASE_01_AGENTE_WHATSAPP_VENTAS.md. Basada en recursos MIT/Apache y documentación oficial de Meta y n8n. Sin ejecutar código de terceros.
