@@ -30,3 +30,9 @@ La biblioteca es una base verificada, no el resultado completo pedido. El cuello
 - Repos con README leído: 14. Contenido completo (todas las lecciones) verificado: 0. La API de contenidos exige add_repo por repo.
 - Cobertura por tema: Claude Code, Codex, MCP, RAG, agentes, voz y n8n tienen al menos un curso libre. WhatsApp, GoHighLevel, Make y Airtable siguen sin curso de calidad.
 - Pendiente: YouTube (sigue sin acceso), licencia de 2 repos, workflows JSON grandes, traducciones (ninguna).
+
+## Actualización 2026-11-06 (segunda búsqueda)
+- Temas nuevos cubiertos con metadatos de la API: WhatsApp, GoHighLevel, Make, Airtable, Claude Design, observabilidad, plantillas n8n, skills, CRM, seguridad de agentes, MCP (listas).
+- READMEs leídos en esta ronda: 9 (ver las notas de cada catálogo).
+- No se ejecutó ni clonó código de terceros. Solo lectura de metadatos y README.
+- Sin resultados en esta ronda: cursos de WhatsApp, Make y GoHighLevel con lecciones (la búsqueda devolvió vacío).

@@ -1,8 +1,16 @@
 # n8n — recursos en GitHub (2026-11-06)
-Cobertura: parcial. Hay buenos cursos de agentes con n8n, pero **no encontré un curso de n8n desde cero con licencia libre y lecciones completas**.
-- Workflows JSON gratuitos para practicar: tylerprogramming/n8n-full-beginner-course (65 ★, sin licencia, solo lectura) → GC016 [VERIFICADO_TERCEROS].
-- Curso de agentes con n8n (proyectos del autor): MohElshamy1994/n8n-course-Projetcs (863 ★, sin licencia) → GC015 [VERIFICADO_TERCEROS].
-- Colección masiva de workflows: Danitilahun/n8n-workflow-templates (declarada 2.053 workflows, licencia no revisada) → [PENDIENTE].
-- Lista de nodos de la comunidad: restyler/awesome-n8n → [PENDIENTE].
-- Restringido: tobiaszwingmann/n8n-ai-bootcamp (evento de pago), LinkedIn Learning n8n (pago).
-- Pendiente: el curso de nivel 1 de n8n del blog oficial (2021), comprobar si sigue vigente.
+Cobertura: parcial. Hay buenos cursos de agentes con n8n, pero no encontré un curso de n8n desde cero con licencia libre y lecciones completas.
+
+Cursos y proyectos (ya catalogados): tylerprogramming/n8n-full-beginner-course (sin licencia, solo lectura); MohElshamy1994/n8n-course-Projetcs (sin licencia); tobiaszwingmann/n8n-ai-bootcamp (evento de pago).
+
+Plantillas y workflows JSON (nuevos):
+| Repo | ★ | Licencia (API) | Qué es | Estado |
+|---|---|---|---|---|
+| enescingoz/awesome-n8n-templates | 26.297 | NOASSERTION | 280+ plantillas listas (Gmail, Telegram, Slack, Discord, WhatsApp…) | [PENDIENTE] licencia y contenido |
+| felipfr/awesome-n8n-workflows | 414 | MIT | Colección curada de workflows por categoría; README leído (instalación, categorías). | [VERIFICADO_OPEN_SOURCE] |
+| simealdana/ai-automation-jsons | 40 | none | JSON de agentes de IA e integraciones. Solo lectura. | [PENDIENTE] |
+| dvasquez08/n8n-workflows | 4 | none | Plantillas JSON. Solo lectura. | [PENDIENTE] |
+| Dilip-chendra/n8n-ai-workflows | 3 | none | Workflows JSON para IA. Solo lectura. | [PENDIENTE] |
+| abhaysingh1122/n8n-workflows | 2 | MIT | Exports JSON y documentación. | [PENDIENTE] |
+| Danitilahun/n8n-workflow-templates | (declarado 2.053) | ver nota | Colección grande. | [PENDIENTE] |
+Recordatorio: un workflow JSON puede hacer llamadas a servicios; revisa cada nodo antes de activarlo.

@@ -1,3 +1,9 @@
 # MCP en GitHub (2026-11-06)
-Verificados: huggingface/mcp-course (Apache-2.0, 925 ★) → GC001 (registro "Coming Soon": contenido sin verificar); decodingai enterprise-mcp-course (MIT, 278 ★) → GC007.
-Leads: the-ai-merge/multimodal-agents-course (583 ★, Apache-2.0) — agente MCP multimodal; justxor (Claude Code, incluye MCP) → GC005.
+Cursos (ya catalogados): huggingface/mcp-course (Apache-2.0, GC001); decodingai enterprise-mcp-course (MIT, GC007).
+Listas de servidores MCP (licencia de la API):
+- appcypher/awesome-mcp-servers — sin licencia, 5.825 ★ — lista curada. [PENDIENTE]
+- wong2/awesome-mcp-servers — MIT, 4.403 ★. [PENDIENTE]
+- YuzeHao2023/Awesome-MCP-Servers — Apache-2.0, 1.085 ★. [PENDIENTE]
+- rohitg00/awesome-devops-mcp-servers — MIT, 1.030 ★. [PENDIENTE]
+- composio-community/awesome-claude-plugins — sin licencia, 1.984 ★. [PENDIENTE]
+- ccplugins/awesome-claude-code-plugins — Apache-2.0, 998 ★. [PENDIENTE]
