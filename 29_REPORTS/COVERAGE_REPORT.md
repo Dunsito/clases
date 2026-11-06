@@ -36,3 +36,9 @@ La biblioteca es una base verificada, no el resultado completo pedido. El cuello
 - READMEs leídos en esta ronda: 9 (ver las notas de cada catálogo).
 - No se ejecutó ni clonó código de terceros. Solo lectura de metadatos y README.
 - Sin resultados en esta ronda: cursos de WhatsApp, Make y GoHighLevel con lecciones (la búsqueda devolvió vacío).
+
+## Actualización 2026-11-06 (clases de WhatsApp)
+- Clases de WhatsApp verificadas gratis: 3 (Meta Cloud API oficial; app de ejemplo de Meta; academia n8n, de forma general, no específica de WhatsApp).
+- Pendientes de YouTube: 5 (no accesible desde el sandbox).
+- De pago: 4.
+- Un curso completo y gratuito de WhatsApp con lecciones no apareció en la búsqueda.
